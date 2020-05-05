@@ -43,4 +43,4 @@
 		}
 	}
 
-customElements.define("com-demoSPA-box-sps", BoxSps);
+customElements.define("com-demospa-box-sps", BoxSps);
