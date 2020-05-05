@@ -5,7 +5,7 @@
 	"description": "A gauge demo spa",
 	"newInstancePrefix": "Gauge",
 	"icon": "https://github.com/SylvainParcollet/SACGaugeWidget/blob/master/GaugeSPA.png",
-	"vendor": "Demospa",
+	"vendor": "demospa",
 	"eula": "EULA",
 	"license": "0.1",
 	"webcomponents": [
