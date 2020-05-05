@@ -1,31 +1,31 @@
 {
-	"id": "com.demoSPA.gauge",
-	"version": "1.0.0",
-	"name": "Demo SPA Gauge",
-	"description": "A gauge demo",
+	"id": "com.demospa.gauge",
+	"version": "0.0.1",
+	"name": "Demo spa Gauge",
+	"description": "A gauge demo spa",
 	"newInstancePrefix": "Gauge",
 	"icon": "https://github.com/SylvainParcollet/SACGaugeWidget/blob/master/GaugeSPA.png",
-	"vendor": "DemoSPA",
+	"vendor": "Demospa",
 	"eula": "EULA",
 	"license": "1.0",
 	"webcomponents": [
 		{
 			"kind": "main",
-			"tag": "com-demoSPA-gauge",
+			"tag": "com-demospa-gauge",
 			"url": "https://github.com/SylvainParcollet/SACGaugeWidget/blob/master/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
-			"tag": "com-demoSPA-gauge-sps",
+			"tag": "com-demospa-gauge-sps",
 			"url": "https://github.com/SylvainParcollet/SACGaugeWidget/blob/master/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
-			"tag": "com-demoSPA-box-bps",
+			"tag": "com-demospa-box-bps",
 			"url": "https://github.com/SylvainParcollet/SACGaugeWidget/blob/master/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
