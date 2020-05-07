@@ -49,5 +49,5 @@
 		}
 	}
 
-	customElements.define("com-sap-sample-gaugespa-bps", BoxBps);
+	customElements.define("com-sap-sample-customspa-bps", BoxBps);
 })();
