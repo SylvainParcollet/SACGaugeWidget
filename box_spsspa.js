@@ -15,7 +15,7 @@
 		</form>
 	`;
 
-	class BoxSps extends HTMLElement {
+	class BoxSpsspa extends HTMLElement {
 		constructor() {
 			super();
 			this._shadowRoot = this.attachShadow({mode: "open"});
@@ -43,4 +43,4 @@
 		}
 	}
 
-customElements.define("com-sap-sample-customspa-sps", BoxSps);
+customElements.define("com-sap-sample-customspa-sps", BoxSpsspa);
