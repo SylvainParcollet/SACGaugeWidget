@@ -18,14 +18,14 @@
 		},
 		{
 			"kind": "styling",
-			"tag": "com-sap-sample-customspa-sps",
+			"tag": "com-sap-sample-customspa-spsspa",
 			"url": "https://github.com/SylvainParcollet/SACGaugeWidget/blob/master/box_spsspa.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
-			"tag": "com-sap-sample-customspa-bps",
+			"tag": "com-sap-sample-customspa-bpsspa",
 			"url": "https://github.com/SylvainParcollet/SACGaugeWidget/blob/master/box_bpsspa.js",
 			"integrity": "",
 			"ignoreIntegrity": true
