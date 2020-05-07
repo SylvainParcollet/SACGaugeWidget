@@ -1,32 +1,32 @@
 {
-	"id": "com.sap.sample.gaugespa",
-	"version": "0.0.1",
-	"name": "Demo spa Gauge",
-	"description": "A gauge demo spa",
-	"newInstancePrefix": "Gaugespa",
+	"id": "com.sap.sample.customspa",
+	"version": "0.0.5",
+	"name": "Customspa",
+	"description": "custom spa",
+	"newInstancePrefix": "Customspa",
 	"icon": "https://github.com/SylvainParcollet/SACGaugeWidget/blob/master/GaugeSPA.png",
-	"vendor": "gaugespa",
+	"vendor": "Customspa",
 	"eula": "EULA",
 	"license": "0.1",
 	"webcomponents": [
 		{
 			"kind": "main",
-			"tag": "com-sap-sample-gaugespa",
-			"url": "https://github.com/SylvainParcollet/SACGaugeWidget/blob/master/box.js",
+			"tag": "com-sap-sample-customspa",
+			"url": "https://github.com/SylvainParcollet/SACGaugeWidget/blob/master/boxspa.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
-			"tag": "com-sap-sample-gaugespa-sps",
-			"url": "https://github.com/SylvainParcollet/SACGaugeWidget/blob/master/box_sps.js",
+			"tag": "com-sap-sample-customspa-sps",
+			"url": "https://github.com/SylvainParcollet/SACGaugeWidget/blob/master/box_spsspa.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
-			"tag": "com-sap-sample-gaugespa-bps",
-			"url": "https://github.com/SylvainParcollet/SACGaugeWidget/blob/master/box_bps.js",
+			"tag": "com-sap-sample-customspa-bps",
+			"url": "https://github.com/SylvainParcollet/SACGaugeWidget/blob/master/box_bpsspa.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
