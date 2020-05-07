@@ -55,7 +55,7 @@
 		</div>
 	`;
 
-	class Box extends HTMLElement {
+	class Boxspa extends HTMLElement {
 		constructor() {
 			super(); 
 			let shadowRoot = this.attachShadow({mode: "open"});
@@ -119,5 +119,5 @@
 		}
 	}
 	
-	customElements.define("com-sap-sample-customspa", Box);
+	customElements.define("com-sap-sample-customspa", Boxspa);
 })();
