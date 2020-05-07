@@ -21,7 +21,7 @@
 		</style>
 	`;
 
-	class BoxBps extends HTMLElement {
+	class BoxBpsspa extends HTMLElement {
 		constructor() {
 			super();
 			this._shadowRoot = this.attachShadow({mode: "open"});
@@ -49,5 +49,5 @@
 		}
 	}
 
-	customElements.define("com-sap-sample-customspa-bps", BoxBps);
+	customElements.define("com-sap-sample-customspa-bps", BoxBpsspa);
 })();
