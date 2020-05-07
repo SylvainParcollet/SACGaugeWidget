@@ -43,4 +43,4 @@
 		}
 	}
 
-customElements.define("com-sap-sample-gaugespa-sps", BoxSps);
+customElements.define("com-sap-sample-customspa-sps", BoxSps);
