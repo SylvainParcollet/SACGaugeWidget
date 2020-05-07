@@ -119,5 +119,5 @@
 		}
 	}
 	
-	customElements.define("com-sap-sample-gaugespa", Box);
+	customElements.define("com-sap-sample-customspa", Box);
 })();
