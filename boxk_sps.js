@@ -15,7 +15,7 @@
 		</form>
 	`;
 
-	class BoxSps extends HTMLElement {
+	class BoxkSps extends HTMLElement {
 		constructor() {
 			super();
 			this._shadowRoot = this.attachShadow({mode: "open"});
@@ -43,4 +43,4 @@
 		}
 	}
 
-customElements.define("com-demo-boxk-sps", BoxkSps);
+customElements.define("com-demok-box-sps", BoxkSps);
