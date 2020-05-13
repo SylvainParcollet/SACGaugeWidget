@@ -17,7 +17,7 @@
 		},
 		{
 			"kind": "styling",
-			"tag": "com-demok-gauge-sps",
+			"tag": "com-demok-box-sps",
 			"url": "https://sylvainparcollet.github.io/SACGaugeWidget/boxk_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
