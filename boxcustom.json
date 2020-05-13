@@ -11,21 +11,21 @@
 		{
 			"kind": "main",
 			"tag": "com-demok-gauge",
-			"url": "https://example.demo/box/box.js",
+			"url": "https://sylvainparcollet.github.io/SACGaugeWidget/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-demok-gauge-sps",
-			"url": "https://example.demo/box/box_sps.js",
+			"url": "https://sylvainparcollet.github.io/SACGaugeWidget/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demok-box-bps",
-			"url": "https://example.demo/box/box_bps.js",
+			"url": "https://sylvainparcollet.github.io/SACGaugeWidget/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
