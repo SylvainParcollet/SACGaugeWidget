@@ -49,5 +49,5 @@
 		}
 	}
 
-	customElements.define("com-demo-boxk-bps", BoxkBps);
+	customElements.define("com-demok-box-bps", BoxkBps);
 })();
