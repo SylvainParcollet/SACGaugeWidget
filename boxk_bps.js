@@ -21,7 +21,7 @@
 		</style>
 	`;
 
-	class BoxBps extends HTMLElement {
+	class BoxkBps extends HTMLElement {
 		constructor() {
 			super();
 			this._shadowRoot = this.attachShadow({mode: "open"});
